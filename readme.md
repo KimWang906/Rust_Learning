@@ -21,9 +21,11 @@
     프로그래머에게 주는 부담을 최소화하고 컴파일러가 자동으로 해주겠다는
     원대한 꿈을 가지고 시작한 것입니다.
 
-## Rust 언어 자습서(E-book)
+## 유명한 Rust 강의 목록
 
-    https://rinthel.github.io/rust-lang-book-ko/
+[mithradates 선생님의 Easy Rust](https://youtube.com/playlist?list=PLfllocyHVgsSJf1zO6k6o3SX2mbZjAqYE)
+
+## [Rust 언어 자습서(E-book)](https://rinthel.github.io/rust-lang-book-ko/)
 
 ### 목차
 

@@ -151,7 +151,6 @@
 
 ## Enums (2)
 
-    Ex 1)
     enum Mood {
         Happy,
         Sleepy,
@@ -197,7 +196,7 @@
 
 ## Enums (3)
 
-    Ex 1)
+<b>Ex 1)</b>
 
     enum Star {
     BrownDwarf = 10,
@@ -224,7 +223,7 @@
         println!("What about DeadStar? It is: {}", DeadStar as u32);
     }
 
-    Ex 2)
+<b>Ex 2)</b>
 
     enum  Number {
     // 자료형을 효율적으로 사용하고 싶을 때 사용합니다.
@@ -257,7 +256,7 @@
 
 ## impl(implementation)
 
-<p>impl는 구조체(struct, enum) 안에서의 함수를 만드는 키워드입니다.</p>
+<p><b>impl</b>는 구조체(struct, enum) 안에서의 함수를 만드는 <b>Keyword</b> 입니다.</p>
 
     #[derive(Debug)]
     struct Animal {
