@@ -29,7 +29,7 @@
 
 [Rust-Lang-Book](https://rinthel.github.io/rust-lang-book-ko/)
 
-### 목차
+## 목차
 
 [1. Print](/Rust_learn_md/print.md)
 
