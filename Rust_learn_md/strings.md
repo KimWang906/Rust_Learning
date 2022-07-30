@@ -30,16 +30,18 @@ str은 보통 <b>&str</b>로 많이 사용합니다.<br>
 ## 문자열 매서드
 
 [.capacity](https://yonmy.com/archives/43)
-      : 벡터가 보유할 수 있는 요소의 수를 반환합니다.(메모리 재할당 없음)
-    .push
-      : 문자를 추가할 수 있습니다.(char)
-    .push_str
-      : 문자열을 추가할 수 있습니다.(String)
-    .pop
-      : vector의 마지막 값을 꺼내서 Some(value)를 반환하고
-        만약 vector가 비었을 경우 None을 반환합니다.
-    with_capacity
-      : 문자열의 길이를 지정합니다.
+<p>
+  : 벡터가 보유할 수 있는 요소의 수를 반환합니다.(메모리 재할당 없음)<br>
+.push<br>
+  : 문자를 추가할 수 있습니다.(char)<br>
+.push_str<br>
+  : 문자열을 추가할 수 있습니다.(String)<br>
+.pop<br>
+  : vector의 마지막 값을 꺼내서 Some(value)를 반환하고<br>
+    만약 vector가 비었을 경우 None을 반환합니다.<br>
+with_capacity<br>
+  : 문자열의 길이를 지정합니다.
+</p>
 
 ## From, Into
 
