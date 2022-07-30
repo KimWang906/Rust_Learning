@@ -25,7 +25,9 @@
 
 [mithradates 선생님의 Easy Rust](https://youtube.com/playlist?list=PLfllocyHVgsSJf1zO6k6o3SX2mbZjAqYE)
 
-## [Rust 언어 자습서(E-book)](https://rinthel.github.io/rust-lang-book-ko/)
+## Rust 언어 자습서(E-book)
+
+[Rust-Lang-Book](https://rinthel.github.io/rust-lang-book-ko/)
 
 ### 목차
 
