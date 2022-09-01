@@ -30,16 +30,20 @@
 
 ## read_line으로 입력을 받을 때 \n을 없애는 방법
 
-    use std::io;
-    let mut input = String::new();
-    io::stdin().read_line(&mut input).unwrap();
-    let len = input.trim_end_matches(&['\r', '\n'][..]).len();
-    input.truncate(len);
+```rs
+use std::io;
 
-    println!("{input} 입력받은 문자열과 추가할 문자열을 이을 수 있다.");
+let mut input = String::new();
+io::stdin().read_line(&mut input).unwrap();
+let len = input.trim_end_matches(&['\r', '\n'][..]).len();
+input.truncate(len);
+
+println!("{input} 입력받은 문자열과 추가할 문자열을 이을 수 있다.");
+```
 
 ## read_line으로 입력을 받을 때 String형에서 Int형으로 변환하는 방법
 
+```rs
     let mut input = String::new();
 
     io::stdin()
@@ -49,9 +53,11 @@
     let input_number: u32 = input.trim().parse().expect("Please type a number!");
 
     println!("{}", input_number);
+```
 
 ## read_line으로 여러 값을 입력 받을 때(공백)
 
+```rs
     let mut input_str = String::new();
     
     // 입력 받은 수를 변수에 담습니다.
@@ -72,9 +78,11 @@
     .expect("Please type a number2!");
 
     println!("{} {}", num1, num2);
+```
 
 ## read_line으로 입력을 받을 때 공백과 \n 동시에 받기
 
+```rs
     let mut input_str = String::new();
     let mut input_int = String::new();
 
@@ -99,3 +107,4 @@
     .expect("Please type a number3!");
 
     println!("{} {} {}", num1, num2, num3);
+```

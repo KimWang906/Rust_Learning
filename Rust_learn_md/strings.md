@@ -51,5 +51,7 @@ with_capacity</br>
 
 ## From, Into
 
+```rs
     let my_name = String::from("Daniel Hyunbin");
     let my_city: String = "Ulsan".into();
+```
