@@ -3,5 +3,29 @@
 version = 3
 
 [[package]]
+name = "From_Into"
+version = "0.1.0"
+
+[[package]]
+name = "Vec"
+version = "0.1.0"
+
+[[package]]
+name = "hello_world"
+version = "0.1.0"
+
+[[package]]
+name = "number_arithmetic_operation"
+version = "0.1.0"
+
+[[package]]
 name = "rust_learn"
+version = "0.1.0"
+
+[[package]]
+name = "trait_rs"
+version = "0.1.0"
+
+[[package]]
+name = "variable_and_function"
 version = "0.1.0"
