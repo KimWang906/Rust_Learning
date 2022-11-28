@@ -52,3 +52,7 @@
 [10. Condition](/Rust_learn_md/condition.md)
 
 [11. Others](/Rust_learn_md/others.md)
+
+## Commit Rule
+
+[commitRule.md](./commitRule.md)
