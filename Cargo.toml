@@ -13,6 +13,7 @@ members = [
     "variable_and_function",
     "number_arithmetic_operation",
     "trait_rs",
-    "From_Into",
-    "Vec",
+    "from_into",
+    "vec",
+    "more_destructuring",
 ]

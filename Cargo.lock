@@ -3,15 +3,15 @@
 version = 3
 
 [[package]]
-name = "From_Into"
-version = "0.1.0"
-
-[[package]]
-name = "Vec"
+name = "from_into"
 version = "0.1.0"
 
 [[package]]
 name = "hello_world"
+version = "0.1.0"
+
+[[package]]
+name = "more_destructuring"
 version = "0.1.0"
 
 [[package]]
@@ -28,4 +28,8 @@ version = "0.1.0"
 
 [[package]]
 name = "variable_and_function"
+version = "0.1.0"
+
+[[package]]
+name = "vec"
 version = "0.1.0"
