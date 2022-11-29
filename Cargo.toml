@@ -16,4 +16,11 @@ members = [
     "from_into",
     "vec",
     "more_destructuring",
+    "dereferencing_and_the_dot_operator",
+    "generics",
+    "more_generics",
+    "option",
+    "more_option",
+    "result",
+    "more_result"
 ]

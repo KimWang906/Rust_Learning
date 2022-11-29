@@ -3,7 +3,15 @@
 version = 3
 
 [[package]]
+name = "dereferencing_and_the_dot_operator"
+version = "0.1.0"
+
+[[package]]
 name = "from_into"
+version = "0.1.0"
+
+[[package]]
+name = "generics"
 version = "0.1.0"
 
 [[package]]
@@ -15,7 +23,27 @@ name = "more_destructuring"
 version = "0.1.0"
 
 [[package]]
+name = "more_generics"
+version = "0.1.0"
+
+[[package]]
+name = "more_option"
+version = "0.1.0"
+
+[[package]]
+name = "more_result"
+version = "0.1.0"
+
+[[package]]
 name = "number_arithmetic_operation"
+version = "0.1.0"
+
+[[package]]
+name = "option"
+version = "0.1.0"
+
+[[package]]
+name = "result"
 version = "0.1.0"
 
 [[package]]
