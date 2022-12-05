@@ -1,14 +1,3 @@
-use std::io;
+// 디렉터리에 있는 러스트 코드를 실행할 수 있는 프로그램 만들기
 
-fn main() {
-    let mut input = String::new();
-
-    io::stdin()
-    .read_line(&mut input)
-    .expect("Failed to read line");
-
-    //expect
-    let input_number: u32 = input.trim().parse().expect("Please type a number!");
-
-    println!("{}", input_number);
-}
+fn main() {}
