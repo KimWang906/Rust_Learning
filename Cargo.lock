@@ -15,7 +15,19 @@ name = "generics"
 version = "0.1.0"
 
 [[package]]
+name = "hash_map_and_btree_map"
+version = "0.1.0"
+
+[[package]]
+name = "hash_map_entry_method"
+version = "0.1.0"
+
+[[package]]
 name = "hello_world"
+version = "0.1.0"
+
+[[package]]
+name = "if_let_and_while_let"
 version = "0.1.0"
 
 [[package]]
@@ -24,6 +36,10 @@ version = "0.1.0"
 
 [[package]]
 name = "more_generics"
+version = "0.1.0"
+
+[[package]]
+name = "more_hash_map"
 version = "0.1.0"
 
 [[package]]

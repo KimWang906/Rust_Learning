@@ -19,6 +19,8 @@ fn main() {
     // 정의만 하였을 때는 어떤 타입인지 모르나 push를 해줄 경우 컴파일러가 타입을 알 수 있다.
     let mut my_vec = Vec::new(); // Type은 Vec<String>으로 결정된다.
 
+    // Vec : push - pop
+
     let name1 = String::from("Windy");
     let name2 = String::from("Gomesy");
     let name3 = String::from("KimWang906");

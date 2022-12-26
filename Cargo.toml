@@ -3,10 +3,6 @@ name = "rust_learn"
 version = "0.1.0"
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
-
 [workspace]
 members = [
     "hello_world",
@@ -22,5 +18,10 @@ members = [
     "option",
     "more_option",
     "result",
-    "more_result"
+    "more_result",
+    "if_let_and_while_let",
+    "hash_map_and_btree_map",
+    "more_hash_map",
+    "hash_map_entry_method",
+    ""
 ]
