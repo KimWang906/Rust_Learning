@@ -23,5 +23,13 @@ members = [
     "hash_map_and_btree_map",
     "more_hash_map",
     "hash_map_entry_method",
+    "hash_map_entry_and_hash_set",
+    "binary_heap",
+    "vecdeque",
+    "question_mark_operator",
+    "a_simple_trait",
     ""
 ]
+
+[dependencies]
+rand = "0.8.5"
