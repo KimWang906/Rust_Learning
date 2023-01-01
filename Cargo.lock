@@ -7,6 +7,10 @@ name = "a_simple_trait"
 version = "0.1.0"
 
 [[package]]
+name = "another_small_trait"
+version = "0.1.0"
+
+[[package]]
 name = "binary_heap"
 version = "0.1.0"
 
@@ -143,6 +147,10 @@ version = "0.1.0"
 dependencies = [
  "rand",
 ]
+
+[[package]]
+name = "trait_as_bounds"
+version = "0.1.0"
 
 [[package]]
 name = "trait_rs"

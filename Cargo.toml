@@ -28,7 +28,8 @@ members = [
     "vecdeque",
     "question_mark_operator",
     "a_simple_trait",
-    ""
+    "another_small_trait",
+    "trait_as_bounds"
 ]
 
 [dependencies]
