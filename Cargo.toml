@@ -29,7 +29,11 @@ members = [
     "question_mark_operator",
     "a_simple_trait",
     "another_small_trait",
-    "trait_as_bounds"
+    "trait_as_bounds",
+    "implementing_from",
+    "blanket_trait_implementations",
+    "the_asref_trait",
+    ""
 ]
 
 [dependencies]
