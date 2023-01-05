@@ -33,6 +33,13 @@ members = [
     "implementing_from",
     "blanket_trait_implementations",
     "the_asref_trait",
+    "chaining_methods",
+    "iterator_intro",
+    "iterators_and_assert_eq",
+    "implementing_iterator",
+    "intro_to_closures",
+    "zero_cost_abstractions",
+    "map_and_for_each",
     ""
 ]
 
