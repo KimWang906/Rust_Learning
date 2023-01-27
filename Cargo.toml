@@ -40,7 +40,15 @@ members = [
     "intro_to_closures",
     "zero_cost_abstractions",
     "map_and_for_each",
-    ""
+    "zipping_iterators",
+    "chars",
+    "filter_and_filter_map",
+    "ok_or_and_ok_or_else",
+    "map_and_and_then_for_option",
+    "and_or_for_option",
+    "any_and_all_methods",
+    "reverse_iterators",
+    "find_position_cycle"
 ]
 
 [dependencies]
