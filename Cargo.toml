@@ -48,7 +48,14 @@ members = [
     "and_or_for_option",
     "any_and_all_methods",
     "reverse_iterators",
-    "find_position_cycle"
+    "find_position_cycle",
+    "skip_take_fold",
+    "chunks_windows",
+    "match_indices_peekable_inspect",
+    "dbg_macro",
+    "lifetime_intro",
+    "",
+    "",
 ]
 
 [dependencies]

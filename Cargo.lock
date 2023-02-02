@@ -7,7 +7,15 @@ name = "a_simple_trait"
 version = "0.1.0"
 
 [[package]]
+name = "and_or_for_option"
+version = "0.1.0"
+
+[[package]]
 name = "another_small_trait"
+version = "0.1.0"
+
+[[package]]
+name = "any_and_all_methods"
 version = "0.1.0"
 
 [[package]]
@@ -29,7 +37,27 @@ name = "chaining_methods"
 version = "0.1.0"
 
 [[package]]
+name = "chars"
+version = "0.1.0"
+
+[[package]]
+name = "chunks_windows"
+version = "0.1.0"
+
+[[package]]
+name = "dbg_macro"
+version = "0.1.0"
+
+[[package]]
 name = "dereferencing_and_the_dot_operator"
+version = "0.1.0"
+
+[[package]]
+name = "filter_and_filter_map"
+version = "0.1.0"
+
+[[package]]
+name = "find_position_cycle"
 version = "0.1.0"
 
 [[package]]
@@ -98,7 +126,19 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "201de327520df007757c1f0adce6e827fe8562fbc28bfd9c15571c66ca1f5f79"
 
 [[package]]
+name = "lifetime_intro"
+version = "0.1.0"
+
+[[package]]
+name = "map_and_and_then_for_option"
+version = "0.1.0"
+
+[[package]]
 name = "map_and_for_each"
+version = "0.1.0"
+
+[[package]]
+name = "match_indices_peekable_inspect"
 version = "0.1.0"
 
 [[package]]
@@ -123,6 +163,10 @@ version = "0.1.0"
 
 [[package]]
 name = "number_arithmetic_operation"
+version = "0.1.0"
+
+[[package]]
+name = "ok_or_and_ok_or_else"
 version = "0.1.0"
 
 [[package]]
@@ -174,11 +218,19 @@ name = "result"
 version = "0.1.0"
 
 [[package]]
+name = "reverse_iterators"
+version = "0.1.0"
+
+[[package]]
 name = "rust_learn"
 version = "0.1.0"
 dependencies = [
  "rand",
 ]
+
+[[package]]
+name = "skip_take_fold"
+version = "0.1.0"
 
 [[package]]
 name = "the_asref_trait"
@@ -212,4 +264,8 @@ checksum = "9c8d87e72b64a3b4db28d11ce29237c246188f4f51057d65a7eab63b7987e423"
 
 [[package]]
 name = "zero_cost_abstractions"
+version = "0.1.0"
+
+[[package]]
+name = "zipping_iterators"
 version = "0.1.0"
