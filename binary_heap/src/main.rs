@@ -1,3 +1,6 @@
+#![allow(unused_variables)]
+#![allow(dead_code)]
+
 use std::collections::BinaryHeap;
 
 // use case : priority queue(우선순위 큐)

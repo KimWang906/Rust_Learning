@@ -1,3 +1,6 @@
+#![allow(unused_variables)]
+#![allow(unused_assignments)]
+
 // dbg! // debug = quick print
 
 

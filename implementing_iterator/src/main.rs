@@ -1,3 +1,6 @@
+#![allow(unused_variables)]
+#![allow(dead_code)]
+
 #[derive(Debug)]
 enum LibraryType {
     City,

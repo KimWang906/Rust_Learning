@@ -54,6 +54,11 @@ members = [
     "match_indices_peekable_inspect",
     "dbg_macro",
     "lifetime_intro",
+    "more_lifetime",
+    "manual_debug_impl",
+    "interior_mutability_and_cell",
+    "ref_cell",
+    "ref_cell_again",
     "",
     "",
 ]

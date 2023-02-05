@@ -1,3 +1,6 @@
+#![allow(unused_variables)]
+#![allow(dead_code)]
+
 // Common Collection Types : Arrays, Vec ...
 
 // Other Collection Types : HashMap, BTreeMap

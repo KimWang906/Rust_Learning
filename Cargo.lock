@@ -108,6 +108,10 @@ name = "implementing_iterator"
 version = "0.1.0"
 
 [[package]]
+name = "interior_mutability_and_cell"
+version = "0.1.0"
+
+[[package]]
 name = "intro_to_closures"
 version = "0.1.0"
 
@@ -127,6 +131,10 @@ checksum = "201de327520df007757c1f0adce6e827fe8562fbc28bfd9c15571c66ca1f5f79"
 
 [[package]]
 name = "lifetime_intro"
+version = "0.1.0"
+
+[[package]]
+name = "manual_debug_impl"
 version = "0.1.0"
 
 [[package]]
@@ -151,6 +159,10 @@ version = "0.1.0"
 
 [[package]]
 name = "more_hash_map"
+version = "0.1.0"
+
+[[package]]
+name = "more_lifetime"
 version = "0.1.0"
 
 [[package]]
@@ -212,6 +224,14 @@ checksum = "ec0be4795e2f6a28069bec0b5ff3e2ac9bafc99e6a9a7dc3547996c5c816922c"
 dependencies = [
  "getrandom",
 ]
+
+[[package]]
+name = "ref_cell"
+version = "0.1.0"
+
+[[package]]
+name = "ref_cell_again"
+version = "0.1.0"
 
 [[package]]
 name = "result"

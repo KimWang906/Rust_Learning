@@ -1,3 +1,6 @@
+#![allow(unused_variables)]
+#![allow(dead_code)]
+
 // filter
 
 // filter_map
@@ -47,7 +50,7 @@ fn main() {
     let filtered_months: Vec<&str> = months
         .into_iter()
         .filter(|month| month.len() < 5)
-        // .contains() : 어떤 값을 포함한 경우 bool(true, false)로 반환
+        // .ins() : 어떤 값을 포함한 경우 bool(true, false)로 반환
         .filter(|monnthh| monnthh.contains("u"))
         .collect();
 

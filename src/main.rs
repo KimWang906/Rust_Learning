@@ -1,3 +1,5 @@
+#![allow(unused_comparisons)]
+
 use rand::random;
 
 fn random_data_u8() -> Option<u8> {
